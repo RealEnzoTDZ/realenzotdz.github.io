@@ -1414,6 +1414,7 @@
 }
 #app-mount.bd-detached-editor .winButton-iRh8-Z {
   right: calc(30% + 20px) !important;
+  --TB-position-top: calc(var(--window-padding)) !important;
 }
 #app-mount #bd-customcss-attach-controls {
   height: auto;
