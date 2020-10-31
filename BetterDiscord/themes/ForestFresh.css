@@ -1015,11 +1015,9 @@
 }
 .numberBadge-2s8kKX {
   background-color: black !important;
-   height: 26px;
+  height: 26px;
   width: 26px !important;
-  margin-bottom: -3px;
-  margin-right: -5px;
-  border: 2px solid #129b1a;
+  border: 1px solid #129b1a;
 }
 .role-2irmRk {
   border-width: 0 2px 2px 0;
